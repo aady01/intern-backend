@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/controllers/doctorcontroller.ts","./src/routes/doctorroutes.ts","./src/types/doctor.d.ts","./src/utils/prisma.ts"],"version":"5.8.3"}
